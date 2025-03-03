@@ -29,13 +29,14 @@
 
 <div align="center">
   <a href="https://github.com/Andrey-Soares8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Soares8&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Soares8&show_icons=true&theme=dark" style="max-width: 45%;"/>
   </a>
   
   <a href="https://github.com/Andrey-Soares8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Soares8&layout=compact&langs_count=6&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Soares8&layout=compact&langs_count=6&theme=dark" style="max-width: 45%;"/>
   </a>
 </div>
+
 
 ---
 
