@@ -9,7 +9,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-🔹 **Linguagens**: Python, Bash  
+🔹 **Linguagens**: Python,C,JS, Bash  
 🔹 **Ferramentas de Segurança**: Wireshark, Nmap, Metasploit  
 🔹 **Sistemas Operacionais**: Linux (Kali, Ubuntu), Windows  
 🔹 **Versionamento**: Git & GitHub  
