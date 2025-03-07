@@ -29,7 +29,8 @@
 
 <div align="center">
   <a href="https://github.com/Andrey-Soares8">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Soares8&show_icons=true&theme=radical&include_all_commits=true&count_private=true" style="max-width: 45%;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andrey-Soares8&show_icons=true&theme=radical&count_private=true" style="max-width: 45%;"/>
+
   </a>
   
   <a href="https://github.com/Andrey-Soares8">
