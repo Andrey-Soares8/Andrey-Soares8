@@ -1,9 +1,10 @@
 # 👋 Olá! Eu sou o Andrey Soares
 
 🛡️ Atualmente em busca de oportunidades na área de **Cibersegurança**  
-📖 Estudando **Cybersecurity na Solyd Offensive Security**
+📖 Estudando **Cybersecurity na Solyd Offensive Security**  
 🌎 Pronouns: **Ele/Dele**  
 🚀 Apaixonado por tecnologia, segurança da informação e aprendizado contínuo  
+
 
 ---
 
