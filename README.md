@@ -56,21 +56,6 @@
 
 Documentação prática de laboratórios da PortSwigger Web Security Academy.
 
-### 🔹 Scanner de Vulnerabilidades Web
-
-Ferramenta para análise automatizada de vulnerabilidades básicas em aplicações web.
-
-### 🔹 DNS Scanner Pro
-
-Enumeração e análise de registros DNS para reconhecimento de infraestrutura.
-
-### 🔹 PortScanner
-
-Scanner de portas para análise e reconhecimento de serviços de rede.
-
-### 🔹 Criptografia de Arquivos
-
-Projeto voltado para proteção e criptografia de dados.
 
 ---
 
