@@ -1,76 +1,80 @@
 # 👋 Olá! Eu sou o Andrey Soares
 
-💻 Estudando Cybersecurity, automação e desenvolvimento de ferramentas voltadas para segurança ofensiva.
+Estudante de Cybersecurity com foco em segurança web, análise de vulnerabilidades e automação com Python.
 
-🎯 Interesse principal em:
+## 🎯 Foco atual
 
 * Web Security
-* Pentest
-* Análise de vulnerabilidades
-* Redes e reconhecimento
+* SQL Injection
+* XSS
+* Authentication Vulnerabilities
+* Information Disclosure
+* Reconhecimento e enumeração
 * Automação com Python
 
----
+## 🧰 Tecnologias e Ferramentas
 
-# 🚀 Tecnologias e Ferramentas
-
-### Linguagens
+**Linguagens**
 
 * Python
 * JavaScript
 * Bash
 
-### Ferramentas de Segurança
+**Segurança**
 
+* Burp Suite
 * Wireshark
 * Nmap
 * Metasploit
-* Burp Suite
+* PortSwigger Web Security Academy
 
-### Sistemas Operacionais
+**Sistemas**
 
-* Linux (Kali, Ubuntu)
+* Linux
 * Windows
 
-### Versionamento
+**Versionamento**
 
 * Git
 * GitHub
 
----
-
-# 📚 Atualmente Estudando
-
-* SQL Injection
-* XSS (Cross-Site Scripting)
-* Authentication Vulnerabilities
-* Segurança Web
-* Enumeração e Reconhecimento
-* Criptografia e proteção de dados
-
----
-
-# 🛠️ Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 ### 🔹 Web Security Labs
 
-Documentação prática de laboratórios da PortSwigger Web Security Academy.
+Documentação prática de laboratórios da PortSwigger Web Security Academy, com foco em metodologia, payloads, requisições HTTP, impacto e mitigação.
 
+Principais tópicos:
 
----
+* SQL Injection
+* XSS
+* Authentication flaws
+* Information Disclosure
+* Segurança em aplicações web
 
-# 📈 Objetivo
+### 🔹 DNS Scanner Pro
+
+Ferramenta gráfica em Python para enumeração autorizada de subdomínios via DNS usando wordlists, threads, validação de entrada e exportação de resultados.
+
+Conceitos aplicados:
+
+* DNS resolution
+* Subdomain enumeration
+* ThreadPoolExecutor
+* Tkinter
+* Logging
+* Exportação CSV/TXT
+
+## 📌 Objetivo
 
 Construir experiência prática em cybersecurity através de:
 
 * Labs hands-on
 * Desenvolvimento de ferramentas
-* Automação
 * Documentação técnica
-* Projetos reais
+* Automação de tarefas
+* Projetos reais para portfólio
 
----
+## 📫 Contato
 
-# 📫 Contato
-
-* GitHub: https://github.com/Andrey-Soares8
+GitHub: https://github.com/Andrey-Soares8
